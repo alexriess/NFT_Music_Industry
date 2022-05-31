@@ -1,5 +1,4 @@
-# NFT_Music_Industry 
-# (Full Report: [nft_music_world.pdf](https://github.com/alexriess/NFT_Music_Industry/files/8801664/nft_music_world.pdf)
+# NFT_Music_Industry (Full Report: [nft_music_world.pdf](https://github.com/alexriess/NFT_Music_Industry/files/8801664/nft_music_world.pdf))
 
 Analyzing behaviors of musicians releasing NFTs in regards to their fanbase
 
